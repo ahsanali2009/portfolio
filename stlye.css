@@ -55,7 +55,7 @@ margin-left: 50px;
     }   
 #main-profile-card{
 
-    height: 75vh;
+    height: 70vh;
 }
 
 }
@@ -100,5 +100,59 @@ margin-left: 50px;
         margin-left: 50px;
     
     }    
-        
+    #main-profile-card .email-link {
+ 
+        margin-top: -10px ;
+        justify-content: center;
+        margin-left: 5px;
+    
+    }
+    #main-profile-card .github-link {
+ 
+        margin-top: -5px ;
+        justify-content: center;
+        margin-left: 5px;
+    
+    }
+    #main-profile-card .linkedin-link {
+ 
+        margin-top: -5px ;
+        justify-content: center;
+        margin-left: 5px;
+    
+    }
+
+}
+
+.email-link {
+    
+text-decoration: none;
+color: wheat;
+font-family: "Poppins",sans-serif;
+display: flex;
+margin-top:-20px ;
+margin-left: 50px;
+font-size: 20px;
+
+
+}
+.github-link{
+    text-decoration: none;
+    color: wheat;
+    font-family: "Poppins",sans-serif;
+    display: flex;
+    margin-top:-3px ;
+    margin-left: 50px;
+    font-size: 20px;
+
+}
+.linkedin-link{
+    text-decoration:none;
+    color: wheat;
+    font-family: "Poppins",sans-serif;
+    display: flex;
+    margin-top:-3px ;
+    margin-left: 48px;
+    font-size: 20px;
+
 }
