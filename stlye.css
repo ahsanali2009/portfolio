@@ -11,7 +11,7 @@ background-color: rgb(7, 1, 19 ,1);
 
 border: 2px solid white;
 border-radius: 10px;
-height: 100vh;
+height: 150vh;
 width: 70%;
 background-color:rgba(10,2,24);
 }
@@ -41,6 +41,29 @@ margin-top:-3vh ;
 
 }
 
+#social-icons{
+
+/* border: white 2px solid; */
+height: 43px;
+
+}
+
+#social-icons .img1{
+    
+    height: 40px;
+    border: 2px solid white;
+    border-radius: 20%;
+
+}
+#social-icons .img2{
+
+    height: 40px;
+    border: 2px solid white;
+    border-radius: 20%;
+}
+
+
+
 @media (max-width:700px){
 
     #main {
@@ -52,5 +75,43 @@ margin-top:-3vh ;
         /* background-color:rgba(10,2,24); */
         }
 
+}
+
+.heading-about {
+
+color: white;
+font-family: "Poppins",sans-serif;
+margin-top: 10px;
+
+}
+.desc-about{
+
+margin-top: -10px;
+width: 90%;
+color: white;
+font-family: "Poppins";
+
+}
+
+.skill-1 {
+
+height: 10vh;
+display: inline-block;
+}
+.skill-2 {
+    height: 10vh;
+    display: inline-block;
+}
+.skill-3 {
+
+    height: 10vh;
+    display: inline-block;
+
+}
+
+.skill-4 {
+
+    height: 10vh;
+    display: inline-block;
 
 }
