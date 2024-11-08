@@ -11,7 +11,7 @@ background-color: rgb(7, 1, 19 ,1);
 
 border: 2px solid white;
 border-radius: 10px;
-height: 150vh;
+height: 160vh;
 width: 70%;
 background-color:rgba(10,2,24);
 }
@@ -70,8 +70,8 @@ height: 43px;
 /* 
         border: 2px solid white;
         border-radius: 10px; */
-        height: 100vh;
         width: 90%;
+        height: 20vh;
         /* background-color:rgba(10,2,24); */
         }
 
@@ -113,5 +113,16 @@ display: inline-block;
 
     height: 10vh;
     display: inline-block;
+
+}
+
+#main-services {
+
+    color: white;
+    font-family: "Poppins",sans-serif;
+}
+#main-services a {
+
+color: white;
 
 }
